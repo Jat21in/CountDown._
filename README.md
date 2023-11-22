@@ -46,4 +46,8 @@ You can also check out a live demo of the countdown timer on GitHub Pages: [[Cou
 
 ![Screenshot (40)](https://github.com/Jat21in/CountDown._/assets/112621022/399be859-fc99-4708-8ba2-ae7beaed6079)
 
+## Contact
 
+For any questions or feedback, please contact [Jatin Mittal] at [mittaljatin2004@gmail.com].
+
+---
