@@ -44,5 +44,6 @@ You can also check out a live demo of the countdown timer on GitHub Pages: [[Cou
 
 ## Screenshots
 
+![Screenshot (40)](https://github.com/Jat21in/CountDown._/assets/112621022/399be859-fc99-4708-8ba2-ae7beaed6079)
 
 
